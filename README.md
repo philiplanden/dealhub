@@ -2,7 +2,7 @@
 
 A working slice of a private placement deal platform's compliance workflow. Built as an exercise in product thinking for institutional financial services, with AI as a first-class participant in the verification pipeline.
 
-**[→ Live demo](#)** *(replace with Vercel URL after deployment)*
+**[→ Live demo]((https://dealhub-livid.vercel.app/))**
 
 ---
 
